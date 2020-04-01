@@ -1,0 +1,45 @@
+/*主页文字
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+}*/
+.container
+{
+    position: absolute;
+    top: 175%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1100px;
+    padding: 30px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 30px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, .2);
+}
+.history
+{
+    width: 200px;
+    height: 220px;
+    background-image: url(images/15.png);
+    border-radius: 50%;
+    float: left;
+    shape-outside: circle();
+    margin: 60px 30px 30px 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    line-height: 22px;
+    color: #8799b1;
+}
+h1
+{
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 30px;
+    color: #555360;
+}

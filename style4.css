@@ -1,0 +1,14 @@
+.blue-input
+{
+    float: left;
+    width: 100px;
+    height: 25px;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+.blue-button
+{
+    width: 80px;
+    height: 25px;
+    font-size: 15px;
+}
